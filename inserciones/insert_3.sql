@@ -1,0 +1,140 @@
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '12345',
+        '45678',
+        '27/03/2005',
+        200.00
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '22345',
+        '44678',
+        '22/04/2015',
+        100.00
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '32345',
+        '46678',
+        '12/08/2023',
+        500.00
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '42345',
+        '47678',
+        '24/04/2024',
+        170.17
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '52345',
+        '48678',
+        '15/05/2016',
+        201.01
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '62345',
+        '49678',
+        '07/01/2024',
+        210.10
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '72345',
+        '45178',
+        '01/09/2024',
+        208.90
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '82345',
+        '45278',
+        '02/07/2023',
+        2100.99
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '92345',
+        '45378',
+        '31/12/2023',
+        2000.01
+    );
+INSERT INTO
+	CUENTAS (
+		NUMERO_CUENTA,
+		CEDULA_PROPIETARIO,
+		FECHA_CREACION,
+		SALDO
+	)
+VALUES
+	(
+        '13345',
+        '45478',
+        '28/05/2005',
+        222.11
+    );
